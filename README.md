@@ -5,7 +5,7 @@ This project applies statistical analysis and machine learning to investigate pr
 
 Using multi-source federal public health datasets, we identify structural drivers of overdose risk and state-level variation to inform public health strategy and policy allocation.
 
-## Project Website
+### Project Website
 For a full walkthrough of the analysis, visualizations, and narrative findings, visit:
 🔗 [Exploring the Opioid Crisis](https://sites.google.com/view/data-mining-project-group-one/introduction)
 
